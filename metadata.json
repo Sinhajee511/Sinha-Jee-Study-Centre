@@ -1,0 +1,6 @@
+{
+  "name": "SINHA JEE STUDY CENTRE",
+  "description": "Digital Textbooks, Notes, Questions and Quizzes for Class 10 & 12 Students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
